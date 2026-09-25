@@ -1,4 +1,4 @@
-const API_BASE_URL = 'http://a847ef3d752f5499599832b6d0014951-1437518854.us-east-1.elb.amazonaws.com'.replace(/\/$/, '');
+const API_BASE_URL = 'http://a4483111db88e49558a996a7579c281c-289811129.us-east-1.elb.amazonaws.com/'.replace(/\/$/, '');
 // const API_BASE_URL = 'http://localhost:8000'
 
 async function request(path, options = {}) {
